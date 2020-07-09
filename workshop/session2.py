@@ -40,7 +40,8 @@ mouse_data = [
  {'dob': "2016-12-25", 'mouse_id': 5, 'sex': 'F'},
  {'dob': "2017-01-01", 'mouse_id': 10, 'sex': 'F'},
  {'dob': "2017-01-03", 'mouse_id': 11, 'sex': 'F'},
- {'dob': "2017-05-12", 'mouse_id': 100, 'sex': 'F'}
+ {'dob': "2017-05-12", 'mouse_id': 100, 'sex': 'F'},
+ {'dob': "1986-01-31", 'mouse_id': 999, 'sex': 'M'}
 ]
 
 session_data = [
